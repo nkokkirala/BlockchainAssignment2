@@ -55,6 +55,8 @@ Instructions:
     
     4) PART D: 
  	Works for all cases. Was not able to run program long enough to find required output
+    5) Optimal:
+    	Solutions are same as found for part A-C
     
  
     
